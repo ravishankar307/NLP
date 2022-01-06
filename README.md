@@ -1,12 +1,13 @@
 # NLP
-Semantic Processing and Topic Modelling
+**Semantic Processing and Topic Modelling**
 
 
 In this case study, you will create a model that can automatically classify customer complaints based on the products and services that the ticket mentions.
 
  
 
-Problem statement
+**Problem statement**
+
 For a financial company, customer complaints carry a lot of importance, as they are often an indicator of the shortcomings in their products and services. If these complaints are resolved efficiently in time, they can bring down customer dissatisfaction to a minimum and retain them with stronger loyalty. This also gives them an idea of how to continuously improve their services to attract more customers. 
 
  
@@ -19,7 +20,8 @@ In this case study, you will be working as an NLP engineer for a financial compa
 
  
 
-Business goal
+**Business goal**
+
 You need to build a model that is able to classify customer complaints based on the products/services. By doing so, you can segregate these tickets into their relevant categories and, therefore, help in the quick resolution of the issue.
 
  
@@ -44,7 +46,8 @@ With the help of topic modelling, you will be able to map each ticket onto its r
 
  
 
-Dataset
+**Dataset**
+
 Let’s first download the data set.
 https://drive.google.com/file/d/1Y4Yzh1uTLIBLnJq1_QvoosFx9giiR1_K/view?usp=sharing
 
@@ -52,7 +55,8 @@ https://drive.google.com/file/d/1Y4Yzh1uTLIBLnJq1_QvoosFx9giiR1_K/view?usp=shari
 
 The data set given to you is in the .json format and contains 78,313 customer complaints with 22 features. You need to convert this to a dataframe in order to process the given complaints.
 
-Expected tasks
+**Expected tasks**
+
 You need to perform the following eight major tasks to complete the assignment:
 
 Data loading
